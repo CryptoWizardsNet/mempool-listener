@@ -7,7 +7,7 @@ Otherwise if using Alchemy, Infura, QuickNode etc as an API, insert those http a
 ## Step 1
 
 ```shell
-git clone <repo> memlisten
+git clone https://github.com/CryptoWizardsNet/mempool-listener.git memlisten
 ```
 
 ## Step 2
