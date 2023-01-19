@@ -1,0 +1,10 @@
+{
+  "name": "MEMPOOL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shaun McDonogh",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
